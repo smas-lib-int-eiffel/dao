@@ -16,7 +16,7 @@
 		</capability>
 		<library name="base" location="$ISE_LIBRARY/library/base/base.ecf"/>
 		<library name="alpha_base" location="$ISE_LIBRARY/external/library/base/kernel/base_kernel.ecf"/>
-		<library name="criteria" location="$ISE_LIBRARY/unstable/library/pattern/criteria/criteria-safe.ecf"/>
+		<library name="criteria" location="$ISE_LIBRARY/unstable/library/pattern/criteria/criteria.ecf"/>
 		<cluster name="data_access_object" location="./src/data_access_object" recursive="true"/>
 	</target>
 </system>
